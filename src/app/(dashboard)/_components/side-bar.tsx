@@ -9,7 +9,7 @@ const Sidebar = () => {
         <div className="p-5 flex flex-row items-center justify-start gap-x-2">
           <Logo />
           <span className=" font-semibold text-center text-gray-800">
-            CodeMaster
+            CodeMasters
           </span>
         </div>
       </Link>
