@@ -11,6 +11,7 @@ Welcome to CodeMasters - an innovative Learning Management System (LMS) designed
 - **Student Dashboard**: Browse, purchase, and track progress across enrolled courses.
 - **Secure Payments**: Utilize Stripe for secure and convenient course purchases.
 - **Engaging Learning Experience**: Access rich course materials, including videos, quizzes, and interactive content.
+- **Admin Analytics**: View total revenue and total sales for informed decision-making.
 
 ## 🛠️ Technologies Used
 
