@@ -1,5 +1,4 @@
 "use client";
-
 import * as z from "zod";
 import axios from "axios";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -34,14 +33,16 @@ const formSchema = z.object({
 
 const TitleForm = ({ initialData, courseId }: TitleFormProps) => {
   const [isEditing, setIsEditing] = useState(false);
+  const router = useRouter();
 
   const toggleEdit = () => setIsEditing((current) => !current);
 
-  const router = useRouter();
+  const initialTitle = initialData.title || "";
+  const defaultInitialData = { title: initialTitle }; // Initialize defaultInitialData before using it
 
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
-    defaultValues: initialData!,
+    defaultValues: defaultInitialData,
   });
 
   const { isSubmitting, isValid } = form.formState;
