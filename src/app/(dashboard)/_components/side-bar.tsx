@@ -5,7 +5,7 @@ import SidebarRoutes from "./sidebar-routes";
 const Sidebar = () => {
   return (
     <div className="h-full border-r flex flex-col overflow-y-auto bg-white shadow-sm">
-      <Link href={"/"}>
+      <Link href="/">
         <div className="p-5 flex flex-row items-center justify-start gap-x-2">
           <Logo />
           <span className=" font-semibold text-center text-gray-800">
