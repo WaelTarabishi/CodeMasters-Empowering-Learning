@@ -27,14 +27,4 @@ Welcome to CodeMasters - an innovative Learning Management System (LMS) designed
 1. **Clone the Repository**: `git clone <repository-url>`
 2. **Install Dependencies**: `npm install`
 3. **Set Up PostgreSQL**: Configure and connect to a PostgreSQL database.
-4. **Set Up Environment Variables**: Update `.env.example` and rename it to `.env` with required credentials.
-5. **Start the Development Server**: `npm run dev`
-6. **Explore CodeMasters**: Open your browser and navigate to `http://localhost:3000`
-
-## 🤝 Contributing
-
-We welcome contributions from the community! If you have any ideas, bug fixes, or feature requests, please submit an issue or open a pull request.
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
+4. **Set Up Environment Variables**: Update `.env.example` and rename it to `.env` with required credentials
