@@ -2,6 +2,10 @@
 
 Welcome to CodeMasters - an innovative Learning Management System (LMS) designed to empower educators and learners alike. With CodeMasters, teachers can effortlessly publish courses, create chapters, add attachments, set prices, and manage course content with ease. Meanwhile, students can browse, purchase courses securely using Stripe, track their progress, and engage with rich course materials.
 
+![Screenshot (17)](https://github.com/WaelTarabishi/CodeMasters-Empowering-Learning/assets/110033974/a64ac8dc-cf8f-4383-9da9-3bd0e70b74cd)
+
+
+
 ## ✨ Features
 
 - **Teacher Dashboard**: Seamlessly manage courses, chapters, and attachments.
