@@ -12,6 +12,7 @@ Welcome to CodeMasters - an innovative Learning Management System (LMS) designed
 
 ![Screenshot (48)](https://github.com/WaelTarabishi/CodeMasters-Empowering-Learning/assets/110033974/e8acae46-c3e6-4ce4-816e-a06b16c0b773)
 
+![Screenshot (49)](https://github.com/WaelTarabishi/CodeMasters-Empowering-Learning/assets/110033974/b5cbaa6c-35de-4361-89c5-b10fdec9089a)
 
 
 ## ✨ Features
